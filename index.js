@@ -1,6 +1,6 @@
 import "./styles.css";
 
-var audio = new Audio("Audio/mius");
+var audio = new Audio("Audio/mius.mp3");
 
 const score = document.querySelector(".score");
 const startBtn = document.querySelector(".startBtn");
